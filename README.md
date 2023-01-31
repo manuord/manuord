@@ -39,6 +39,6 @@ interaction with search and country information, as an aggregate of activities c
 **Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| villalobosmanuelmatias@gmail.com<br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=(manu)&show_icons=true&theme=gruvbox)
+
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manuord&label=Profile%20views&color=0e75b6&style=flat" alt="manuord" /> </p>
