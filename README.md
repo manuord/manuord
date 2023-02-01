@@ -1,8 +1,4 @@
-<p>
-  <img width="850" src="manu.jpg" alt="banner">
-</p>
 
----
 <p align="center">    <b>Hi there welcome to my GitHub page 👋 <b> </p> 
 
 
@@ -38,7 +34,7 @@ interaction with search and country information, as an aggregate of activities c
 **LinkedIn** | [Manuel Villalobos](https://www.linkedin.com/in/manuel-matias-villalobos-ordo%C3%B1ez/)<br>
 **Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| villalobosmanuelmatias@gmail.com<br>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuord&show_icons=true&theme=gruvbox)
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manuord&label=Profile%20views&color=0e75b6&style=flat" alt="manuord" /> </p>
